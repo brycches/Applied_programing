@@ -1,0 +1,53 @@
+Typing: the one we're doing
+WPM/accuracy
+typing test
+locks keyboard until backspace
+identify weakness -> ai
+timer
+generate type snippets
+treat weaknesses -> practice
+score system -> leader board
+save progress log -> analytics
+Graphics
+
+Roommates: the one we're not
+profiles
+web app
+chat
+authentication
+user lookup
+suggested roommates -> ai model
+filter profile traits
+location filter
+apartment preferences
+rate my roommate
+
+
+
+
+technologies needed:
+javascript
+html
+css
+Django - python webapp
+ai model
+database?
+cookies?
+word randomizer
+type.js
+sign in with google
+
+
+
+First steps:
+Random word generator/ sentence generator -Bryce check
+design mockup (frontend design) -Tyrone check
+WPM/Accuracy calculations -Talon check
+timer -Haein check
+score system -Zach research django
+ai typing -Danny how to start ai
+
+
+
+
+
