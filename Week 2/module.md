@@ -109,7 +109,7 @@ This section should be filled out at the end of the Sprint and submitted.
 
 1. Put your GitHub link for your demonstration software here: https://github.com/brycches/Applied_programing/tree/master/week%203/Hangman
 
-2. Put your YouTube link for your code walkthrough and demo video here:
+2. Put your YouTube link for your code walkthrough and demo video here:https://youtu.be/FNGE-b38kY4
 
 3. Complete the following checklist by either indicating "Yes" or "No". If you indicate "No" then provide an explanation of why beneath the table.
 
@@ -133,5 +133,4 @@ This section should be filled out at the end of the Sprint and submitted.
 
 7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
 
-My treat idea worked great until i ran out of treats.
-
+My treat idea worked great until i ran out of treats. My goal was to reward myself with a treat for completing a step.
