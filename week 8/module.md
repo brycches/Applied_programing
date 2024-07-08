@@ -62,7 +62,7 @@ During the Sprint, you will spend 4 hours in class meetings, 4 hours on your tea
 
 1. What sources have you selected to learn the technical material?
 chatgpt 
-java documentaytion
+java documentation
 
 2. What is your plan to practice the new material?  In other words, what is the order in which you plan to learn the material before working on your demonstration software?
 first get my environement set up
@@ -87,14 +87,14 @@ Record all CSE 310 work that you do on your individual module or the team projec
 
 Note that `IM` stands for Individual Module and `TP` stands for Team Project.  
 
-|Date      |Start Time|IM or TP|Description                                 |Hours:Minutes|
-|----------|----------|--------|--------------------------------------------|-------------|
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
-|          |          |        |                                            |             |
+|Date        |Start Time|IM or TP|Description                                                 |Hours:Minutes|
+|------------|----------|--------|------------------------------------------------------------|-------------|
+|I don't know|  ?       |   IM   |it has been far too long, but definitely at least 10 hours  |   10+       |
+|            |          |        |                                            |             |
+|            |          |        |                                            |             |
+|            |          |        |                                            |             |
+|            |          |        |                                            |             |
+|            |          |        |                                            |             |
 
 _Note: Add more rows as needed._
 
