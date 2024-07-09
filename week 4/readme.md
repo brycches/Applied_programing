@@ -43,3 +43,6 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 * [ ] More Random events
 * [ ] Better wall colision handling
 * [ ] a guarenteed staircase leeding down to a more dangerous dungeon.
+* [ ] enemies that try to colide with the character to force a fight event.
+* [ ] different sizes for the dungeon, so its not always a 5 by 5
+* [ ] the starting room is always safe and doesn't have an event, and doesn't have to be in the middle of the dungeon, it could be in any of the rooms of the current floor of the dungeon.
